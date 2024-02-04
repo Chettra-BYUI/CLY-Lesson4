@@ -5,9 +5,10 @@
     "description": "Temple API",
     "version": "1.0.0"
   },
-  "host": "https://cly-lesson4.onrender.com",
+  "host": "cly-lesson4.onrender.com",
   "basePath": "/",
   "schemes": [
+    "http",
     "https"
   ],
   "paths": {
