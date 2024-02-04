@@ -6,7 +6,7 @@ const doc = {
     description: 'Temple API'
   },
   host: 'cly-lesson4.onrender.com',
-  schemes: ['http','https']
+  schemes: ['https']
 };
 
 const outputFile = './swagger.json';
